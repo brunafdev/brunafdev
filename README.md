@@ -49,5 +49,4 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
 * **Dashboards Automatizados:** Conexão direta de dados brutos com **Power BI** para relatórios gerenciais que se atualizam sozinhos.
 * **Automação de Planilhas:** Scripts avançados em **Google Sheets** e **Excel** para eliminar o "Ctrl+C / Ctrl+V" manual.
 
-📫 **Vamos conectar?**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-ferreira-079762174/)
+📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-ferreira-079762174/)
