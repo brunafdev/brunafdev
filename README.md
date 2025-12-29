@@ -16,6 +16,7 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
 ### 🛠️ Minha Caixa de Ferramentas
 
 **Linguagens & Desenvolvimento:**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -24,6 +25,7 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
 </div>
 
 **Ecossistema Microsoft (Power Platform):**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerAutomate" src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -31,6 +33,7 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
 </div>
 
 **Ecossistema Google:**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="GoogleSheets" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img align="center" alt="AppsScript" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
