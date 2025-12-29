@@ -11,7 +11,7 @@ Graduanda em **Automação Industrial pelo Instituto Federal de São Paulo (IFSP
 
 Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** garantindo que o tempo humano seja gasto com estratégia e não com tarefas operacionais.
 
----
+
 
 ### 🛠️ Minha Caixa de Ferramentas
 
@@ -23,7 +23,7 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
 
----
+.
 
 **Ecossistema Microsoft (Power Platform):**
 <div style="display: inline_block"><br>
@@ -32,7 +32,7 @@ Meu foco é migrar processos operacionais para **fluxos 100% automatizados,** ga
   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
----
+.
 
 **Ecossistema Google:**
 <div style="display: inline_block"><br>
