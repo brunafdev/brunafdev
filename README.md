@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/brunafdev.png" width="150px;" alt="Foto de Perfil Bruna"/>
-  <h1>Olá, sou a Bruna Ferreira 👋</h1>
+  <h1>Olá, sou a Bruna Ferreira </h1>
 </div>
 
 ### 🤖 Desenvolvedora de Automação de Processos | IFSP
