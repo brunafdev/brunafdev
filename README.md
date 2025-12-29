@@ -3,7 +3,7 @@
   <h1>Olá, sou a Bruna Ferreira 👋</h1>
 </div>
 
-### 🤖 Desenvolvedora de Automação & Dados | IFSP
+### 🤖 Desenvolvedora de Automação de Processos | IFSP
 
 Sou apaixonada por **transformar dados em decisões**.
 
