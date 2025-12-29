@@ -5,7 +5,7 @@
 
 ### 🤖 Desenvolvedora de Automação & Dados | IFSP
 
-Sou **apaixonada por transformar dados em decisões**.
+Sou apaixonada por **transformar dados em decisões**.
 
 Graduada em **Automação Industrial pelo Instituto Federal de São Paulo (IFSP)**, combino a base técnica acadêmica com a agilidade necessária para o mercado corporativo.
 
