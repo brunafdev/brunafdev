@@ -7,7 +7,7 @@
 
 Sou apaixonada por **transformar dados em decisões** e **eliminar tarefas repetitivas**.
 
-Graduada em **Automação Industrial pelo Instituto Federal de São Paulo (IFSP)**, combino a base técnica acadêmica com a agilidade necessária para o mercado corporativo.
+Graduanda em **Automação Industrial pelo Instituto Federal de São Paulo (IFSP)**.
 
 Meu foco é migrar processos operacionais para **fluxos 100% automatizados**, garantindo que o tempo humano seja gasto com estratégia, e não com tarefas repetitivas.
 
